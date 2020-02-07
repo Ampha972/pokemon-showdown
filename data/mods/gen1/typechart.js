@@ -1,4 +1,4 @@
-/**
+  /**
  * Types were different on Gen 1.
  * We had no steel nor dark types and there were a couple of important differences:
  * Bug and Poison were weak to eachother

@@ -1,3 +1,4 @@
+
 /**
  * Simulator Pokemon
  * Pokemon Showdown - http://pokemonshowdown.com/

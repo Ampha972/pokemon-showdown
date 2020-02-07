@@ -1,0 +1,5 @@
+[
+{"title":"Lobby","isOfficial":true,"autojoin":true,"logTimes":true,"autoTruncate":true,"reportJoins":true,"batchJoins":0},
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true,"logTimes":true,"autoTruncate":true,"reportJoins":true,"batchJoins":0},
+{"title":"BOU","logTimes":true,"autoTruncate":true,"reportJoins":true,"batchJoins":0}
+]
