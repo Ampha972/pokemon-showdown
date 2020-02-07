@@ -366,7 +366,8 @@ exports.autolockdown = true;
  */
 exports.customavatars = {
 	// 'userid': 'customavatar.png'
-  'amphabelle': 'ampharossama.png'
+  'amphabelle': 'fabio.png',
+  'roidadadou': 'DDD.png'
 };
 
 /**
